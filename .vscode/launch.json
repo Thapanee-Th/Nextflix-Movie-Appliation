@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "nextflix_movie_appliation",
+            "cwd": "nextflix_movie_appliation",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "nextflix_movie_appliation (profile mode)",
+            "cwd": "nextflix_movie_appliation",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "nextflix_movie_appliation (release mode)",
+            "cwd": "nextflix_movie_appliation",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
